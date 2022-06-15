@@ -1,0 +1,7 @@
+10.0.0.0/8    Private Address Space
+172.16.0.0/12 Private Address Space
+192.168.0.0/16 Private Address Space
+169.254.0.0/16 Automatic Private IP Addressing
+224.0.0.0/4 Broadcast Address Space
+255.255.255.255/32 Broadcast Address Space
+127.0.0.0/8 Local Address Space 
